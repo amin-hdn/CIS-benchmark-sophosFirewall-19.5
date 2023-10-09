@@ -1,4 +1,3 @@
-level 2
 # 1 Device Setup And Administration
 ## 1.1 General Settings
 ### 1.1.4 Ensure SSL server certificate for remote SSL VPN is configured correctly (Manual)
